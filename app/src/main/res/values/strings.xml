@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">simplify</string>
+    <string name="newtask">newTask</string>
+    <string name="save" />
+    <string name="new_task" />
+</resources>
